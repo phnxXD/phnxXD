@@ -1,1 +1,1 @@
-[![Pavneet ](https://github-readme-stats.vercel.app/api?username=phnxxd)](https://github.com/anuraghazra/github-readme-stats)
+![Pavneet](https://github-readme-stats.vercel.app/api?username=phnxxd&show_icons=true&theme=radical)
